@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-#to use else if in perl
+#to use array in perl
 
 @array = ('a','b','c','d','e');
 $last = pop@array;
